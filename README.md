@@ -1,5 +1,8 @@
 # mac-pl-keys-fix
-A tiny project to fix Polish diacritic fonts typing - switching the right Command button with the right Option button while keeping left side unchanged.
+A tiny project to fix Polish diacritic fonts typing as default place for Polish fonts is not where it should be.
+Switching the right Command button with the right Option button fixes the issue, but we want to keep left side unchanged for using other built-in shortcuts.
+
+Instructions:
 
 1. Place the file in the home folder ~/mac-pl-keys-fix.sh
    
