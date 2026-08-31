@@ -14,7 +14,7 @@ Instructions:
    `~/mac-pl-keys-fix.sh`
    
 6. Add this line to '\~/.zprofile':  
-   `echo '\~/mac-pl-keys-fix.sh' >> \~/.zprofile`
+   `echo '~/mac-pl-keys-fix.sh' >> ~/.zprofile`
 
 
 *Hint for Logitech Keyboard:*  
