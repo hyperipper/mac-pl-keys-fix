@@ -16,6 +16,6 @@ Instructions:
    echo '\~/mac-pl-keys-fix.sh' >> \~/.zprofile
 
 
-*Hint for Logitech Keyboard:*
-*- Pressing and holding on K860 keyboard, for at least 5s, the combo Fn+O resets the keyboard layout to the MacOs layout (Cmd is Cmd, Opt is Opt)*
-*- Pressing and holding on K860 keyboard, for at least 5s, the combo Fn+P resets the keyboard layout to the Windows layout (Cmd is Alt, Opt is Start)*
+*Hint for Logitech Keyboard:*  
+- *Pressing and holding on K860 keyboard, for at least 5s, the combo Fn+O resets the keyboard layout to the MacOs layout (Cmd is Cmd, Opt is Opt)*  
+- *Pressing and holding on K860 keyboard, for at least 5s, the combo Fn+P resets the keyboard layout to the Windows layout (Cmd is Alt, Opt is Start)*  
