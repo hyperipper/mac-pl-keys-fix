@@ -12,5 +12,5 @@ Instructions:
 4. Execute the script:
    ~/mac-pl-keys-fix.sh
    
-6. Add this line to ~/.zprofile:
+6. Add this line to '~/.zprofile':
    echo '~/mac-pl-keys-fix.sh' >> ~/.zprofile
