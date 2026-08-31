@@ -16,6 +16,13 @@ Instructions:
 6. Add this line to '\~/.zprofile':  
    `echo '~/mac-pl-keys-fix.sh' >> ~/.zprofile`
 
+7. Reboot MacOS and test it. If it doesn't work then it means '\~/.zprofile' is not being loaded on Startup.
+
+8. plutil lint ~/Library/LaunchAgents/com.you.mac-pl-key-fix.plist
+
+9. launchctl load ~/Library/LaunchAgents/com.you.mac-pl-key-fix.plist
+
+
 
 *Hint for Logitech Keyboard:*  
 - *Pressing and holding on K860 keyboard, for at least 5s, the combo `Fn+O` resets the keyboard layout to the MacOs layout (Cmd is Cmd, Opt is Opt)*  
