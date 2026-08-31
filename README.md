@@ -4,7 +4,7 @@ Switching the right Command button with the right Option button fixes the issue,
 
 Instructions:
 
-1. Place the file in the home folder
+1. Place the file in the home folder  
    `~/mac-pl-keys-fix.sh`
    
 3. Run:  
