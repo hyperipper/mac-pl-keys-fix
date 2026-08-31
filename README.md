@@ -6,11 +6,11 @@ Instructions:
 
 1. Place the file in the home folder ~/mac-pl-keys-fix.sh
    
-3. Run:
+3. Run:  
    chmod a+x ~/mac-pl-keys-fix.sh
    
-4. Execute the script:
+5. Execute the script:  
    ~/mac-pl-keys-fix.sh
    
-6. Add this line to '~/.zprofile':
+6. Add this line to '~/.zprofile':  
    echo '~/mac-pl-keys-fix.sh' >> ~/.zprofile
